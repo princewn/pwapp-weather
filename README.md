@@ -1,4 +1,4 @@
-# Your first Progressive Web App Code Lab
+# pwapp-weather
 
 These are the resource files needed for the [Your first Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
 code lab from Google.
@@ -17,3 +17,4 @@ This is a work in progress, if you find a mistake, please [file an issue](https:
 * A text editor
 * Basic knowledge of HTML, CSS and JavaScript
 * (Optional) Node is required in the last step to deploy to Firebase
+
